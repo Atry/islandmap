@@ -1,0 +1,7 @@
+digraph {
+	IslandMapBuilder -> models
+	Main -> models
+	Main -> IslandMapBuilder
+	Main -> Parser
+	Parser -> models
+}
