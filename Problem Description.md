@@ -18,7 +18,7 @@ A 2D grid of `~` and `x` characters, where `~` stands for sea and `x` for land. 
 
 (For test input 1 through 6, if one of the given position does not belong to any island, output 'NO ISLAND'. Otherwise, output the size of the island at the given position. All the given positions are row-major pairs of zero-based integers)
 
-### Test Ouput:
+### Test Input:
 ```
 ~~~xx~~~~~
 ~~~xx~~x~~
