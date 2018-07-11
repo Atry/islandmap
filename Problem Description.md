@@ -16,7 +16,7 @@ A 2D grid of `~` and `x` characters, where `~` stands for sea and `x` for land. 
 7. The number of islands in the map.
 8. The size of the largest island.
 
-(For test input 1 through 6, if one of the given position does not belong to any island, output 'NO ISLAND'. All the given positions are row-major pairs of zero-based integers)
+(For test input 1 through 6, if one of the given positions does not belong to any island, output 'NO ISLAND'. All the given positions are row-major pairs of zero-based integers)
 
 ### Test Input:
 ```
